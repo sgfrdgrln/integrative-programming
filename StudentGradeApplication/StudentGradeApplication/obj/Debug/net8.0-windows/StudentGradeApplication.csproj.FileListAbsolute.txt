@@ -1,0 +1,16 @@
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.frmStudentGradeProgram.resources
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.csproj.GenerateResource.cache
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.exe
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.deps.json
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.runtimeconfig.json
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.dll
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.pdb
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.dll
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\refint\StudentGradeApplication.dll
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.pdb
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.genruntimeconfig.cache
+C:\Users\lenovo\source\repos\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\ref\StudentGradeApplication.dll
